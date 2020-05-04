@@ -1,0 +1,14 @@
+#content{
+    background-color: pink;
+    border-radius: 2em;
+}
+#head{
+    font-family: 'Monoton', cursive;
+}
+#love{
+    height: 7em;
+    width: 7em;
+}
+#percentage{
+    font-family: 'Rammetto One', cursive;
+}
